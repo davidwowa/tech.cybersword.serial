@@ -1,4 +1,6 @@
-https://cybersword.tech
+# tech.cybersword.serial  
+
+serial(UART) fuzzer  
 
 #Maven build  
 `~/java_env/maven/bin/mvn archetype:generate -DgroupId=tech.cybersword -DartifactId=tech.cybersword.serial -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false`  
